@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">CHF Task</string>
+
+    <!--Sheared-->
+    <string name="ok">"OK"</string>
+    <string name="http_error">"HTTP Error %s"</string>
+    <string name="http_error_bad_request_exception">"Bad Request Exception"</string>
+    <string name="http_error_un_Authorized_exception">"UnAuthorized Exception"</string>
+    <string name="http_error_not_found_exception">"Not Found Exception"</string>
+    <string name="http_error_un_processable_exception">"UnProcessable Exception"</string>
+    <string name="http_error_server_error_exception">"Server Error Exception"</string>
+    <string name="http_error_unknown_backend_exception">"Unknown_Server Exception"</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="first_name">First Name</string>
+    <string name="enter_your_first_name">Enter Your First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="enter_your_last_name">Enter Your Last Name</string>
+    <string name="age">Age</string>
+    <string name="must_be_18_or_above">(Must be 18 or above)</string>
+    <string name="enter_your_age">Enter Your Age</string>
+    <string name="register">Register</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="base_url">https://api.foursquare.com/v2/</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="please_enable_location_permission_manually_from_settings">Please enable location permission manually from settings.</string>
+    <string name="home">Home</string>
+    <string name="my_profile">My Profile</string>
+    <string name="logout">Logout</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="location_permission_denied">Location permission denied</string>
+    <string name="please_grant_location_permission_from_app_settings">Please grant location permission from app settings.</string>
+    <string name="location_is_disabled">Location is disabled</string>
+    <string name="please_enable_location_services">Please enable location services.</string>
+    <string name="invalid_credentials">Invalid Credentials</string>
+    <string name="wrong_email_or_password_please_try_again">Wrong email or password. Please try again.</string>
+    <string name="password_criteria">Password must be at least 8 characters long \nContain at least one: \nUppercase letter, Lowercase letter, Number and Special character</string>
+    <string name="google_terms_url">https://policies.google.com/terms</string>
+</resources>
